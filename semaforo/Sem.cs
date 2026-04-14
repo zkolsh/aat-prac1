@@ -5,7 +5,6 @@
 			RojoAmarillo,
 			Amarillo,
 			Verde,
-			Apagado
 		}
 
 		internal enum Comportamiento {
@@ -36,10 +35,6 @@
 			case Color.Amarillo:
 				this._time = TimeSpan.FromSeconds(42);
 				break;
-
-			case Color.Apagado:
-				this._time = TimeSpan.Zero;
-				break;
 			}
 		}
 
@@ -63,10 +58,12 @@
 
 		public void ponerEnIntermitente() {
 			this._behavior = Comportamiento.Intermitente;
+			pasoDelTiempo(TimeSpan.Zero);
 		}
 
 		public void sacarDeIntermitente() {
 			this._behavior = Comportamiento.Activo;
+			pasoDelTiempo(TimeSpan.Zero);
 		}
 
 		private void pasoActivo() {
@@ -88,7 +85,7 @@
 			if (interval < 1) {
 				this._color = Color.Amarillo;
 			} else {
-				this._color = Color.Apagado;
+				this._color = Color.Rojo;
 			}
 		}
 	}
