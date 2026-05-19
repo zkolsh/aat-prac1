@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkGVfZlkBNk=",
+  "success": true,
+  "projectFilePath": "/home/rain/workspace/escuela/aat/AAT-Formas/Formas/Formas.csproj",
+  "expectedPackageFiles": [
+    "/home/rain/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

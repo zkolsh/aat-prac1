@@ -1,0 +1,15 @@
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/bin/Debug/net10.0/Formas
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/bin/Debug/net10.0/Formas.deps.json
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/bin/Debug/net10.0/Formas.runtimeconfig.json
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/bin/Debug/net10.0/Formas.dll
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/bin/Debug/net10.0/Formas.pdb
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.AssemblyInfoInputs.cache
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.AssemblyInfo.cs
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.csproj.CoreCompileInputs.cache
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.sourcelink.json
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.dll
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/refint/Formas.dll
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.pdb
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/Formas.genruntimeconfig.cache
+/home/rain/workspace/escuela/aat/AAT-Formas/Formas/obj/Debug/net10.0/ref/Formas.dll
