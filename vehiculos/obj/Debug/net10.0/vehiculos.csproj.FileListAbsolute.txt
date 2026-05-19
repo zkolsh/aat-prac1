@@ -1,0 +1,15 @@
+/home/rain/workspace/escuela/aat/prac1/vehiculos/bin/Debug/net10.0/vehiculos
+/home/rain/workspace/escuela/aat/prac1/vehiculos/bin/Debug/net10.0/vehiculos.deps.json
+/home/rain/workspace/escuela/aat/prac1/vehiculos/bin/Debug/net10.0/vehiculos.runtimeconfig.json
+/home/rain/workspace/escuela/aat/prac1/vehiculos/bin/Debug/net10.0/vehiculos.dll
+/home/rain/workspace/escuela/aat/prac1/vehiculos/bin/Debug/net10.0/vehiculos.pdb
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.AssemblyInfoInputs.cache
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.AssemblyInfo.cs
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.csproj.CoreCompileInputs.cache
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.sourcelink.json
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.dll
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/refint/vehiculos.dll
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.pdb
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/vehiculos.genruntimeconfig.cache
+/home/rain/workspace/escuela/aat/prac1/vehiculos/obj/Debug/net10.0/ref/vehiculos.dll

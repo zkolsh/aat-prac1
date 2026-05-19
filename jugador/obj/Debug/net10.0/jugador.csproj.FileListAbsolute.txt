@@ -1,0 +1,15 @@
+/home/rain/workspace/escuela/aat/prac1/jugador/bin/Debug/net10.0/jugador
+/home/rain/workspace/escuela/aat/prac1/jugador/bin/Debug/net10.0/jugador.deps.json
+/home/rain/workspace/escuela/aat/prac1/jugador/bin/Debug/net10.0/jugador.runtimeconfig.json
+/home/rain/workspace/escuela/aat/prac1/jugador/bin/Debug/net10.0/jugador.dll
+/home/rain/workspace/escuela/aat/prac1/jugador/bin/Debug/net10.0/jugador.pdb
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.GeneratedMSBuildEditorConfig.editorconfig
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.AssemblyInfoInputs.cache
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.AssemblyInfo.cs
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.csproj.CoreCompileInputs.cache
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.sourcelink.json
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.dll
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/refint/jugador.dll
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.pdb
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/jugador.genruntimeconfig.cache
+/home/rain/workspace/escuela/aat/prac1/jugador/obj/Debug/net10.0/ref/jugador.dll

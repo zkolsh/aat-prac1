@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ri6nV4BtWWs=",
+  "success": true,
+  "projectFilePath": "/home/rain/workspace/escuela/aat/prac1/jugador/jugador.csproj",
+  "expectedPackageFiles": [
+    "/home/rain/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
