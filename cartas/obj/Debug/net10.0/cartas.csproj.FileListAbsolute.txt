@@ -1,0 +1,15 @@
+/home/rain/workspace/escuela/aat/prac1/cartas/bin/Debug/net10.0/cartas
+/home/rain/workspace/escuela/aat/prac1/cartas/bin/Debug/net10.0/cartas.deps.json
+/home/rain/workspace/escuela/aat/prac1/cartas/bin/Debug/net10.0/cartas.runtimeconfig.json
+/home/rain/workspace/escuela/aat/prac1/cartas/bin/Debug/net10.0/cartas.dll
+/home/rain/workspace/escuela/aat/prac1/cartas/bin/Debug/net10.0/cartas.pdb
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.AssemblyInfoInputs.cache
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.AssemblyInfo.cs
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.csproj.CoreCompileInputs.cache
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.sourcelink.json
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.dll
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/refint/cartas.dll
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.pdb
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/cartas.genruntimeconfig.cache
+/home/rain/workspace/escuela/aat/prac1/cartas/obj/Debug/net10.0/ref/cartas.dll

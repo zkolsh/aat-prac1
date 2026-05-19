@@ -1,0 +1,15 @@
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.GeneratedMSBuildEditorConfig.editorconfig
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.AssemblyInfoInputs.cache
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.AssemblyInfo.cs
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.csproj.CoreCompileInputs.cache
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.sourcelink.json
+/home/rain/workspace/escuela/aat/prac1/cajero/bin/Debug/net10.0/cajero
+/home/rain/workspace/escuela/aat/prac1/cajero/bin/Debug/net10.0/cajero.deps.json
+/home/rain/workspace/escuela/aat/prac1/cajero/bin/Debug/net10.0/cajero.runtimeconfig.json
+/home/rain/workspace/escuela/aat/prac1/cajero/bin/Debug/net10.0/cajero.dll
+/home/rain/workspace/escuela/aat/prac1/cajero/bin/Debug/net10.0/cajero.pdb
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.dll
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/refint/cajero.dll
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.pdb
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/cajero.genruntimeconfig.cache
+/home/rain/workspace/escuela/aat/prac1/cajero/obj/Debug/net10.0/ref/cajero.dll
